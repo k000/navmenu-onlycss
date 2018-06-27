@@ -47,7 +47,8 @@ input[type="checkbox"]:checked + label a{
 }
 
 
-@media screen and (max-width: 600px){
+@media (max-width:768px) {
+
 
   nav a{
     display: none;
